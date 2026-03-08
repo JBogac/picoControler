@@ -1,10 +1,10 @@
 # picoControler
 
-> Komputer zbudowany z układów scalonych - projekt na elektronikę cyfrową
+> "Komputer" zbudowany z układów scalonych - projekt na elektronikę cyfrową
 
 ## Co to jest?
 
-8-bitowy programowalny kontroler zbudowany z:
+8-bitowy programowalny kontroler zbudowany modułowo z:
 - Zegar: NE555
 - Licznik: 74HC161 (0-15)
 - RAM: HM6264 (16×8 bit)
