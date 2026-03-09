@@ -1,0 +1,45 @@
+# === ŚMIECI SYSTEMOWE ===
+.DS_Store              # macOS
+Thumbs.db             # Windows
+desktop.ini           # Windows
+*.swp                 # vim
+*~                    # backup files
+
+# === PLIKI TYMCZASOWE ===
+*.tmp
+*.bak
+*.old
+temp/
+tmp/
+
+# === DRAW.IO ===
+*.bkp
+*.dtmp
+*.$*.bkp
+*.drawio.bkp
+*.drawio~
+
+# === PROGRAMY DO PROJEKTOWANIA ===
+# KiCad
+*.kicad_pcb-bak
+*-bak
+*-save.kicad_pcb
+fp-info-cache
+*.net
+
+# Fritzing
+*.fzz~
+
+# Eagle
+*.b#*
+*.s#*
+*.l#*
+
+# === DUŻE PLIKI ===
+*.zip
+*.rar
+*.iso
+
+# === OSOBISTE NOTATKI ===
+notes-private/
+TODO-local.txt
