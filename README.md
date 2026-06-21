@@ -1,22 +1,17 @@
 # picoControler
 
-> "Komputer" zbudowany z układów scalonych - projekt na elektronikę cyfrową
+> czyli "Komputer" z układów scalonych
+> miał to być projekt do szkoły, ale nie będzie – robię to w pełni 4 fun i dla nauki :))
 
 ## Co to jest?
 
-8-bitowy programowalny kontroler zbudowany modułowo z:
-- Zegar: NE555
-- Licznik: 74HC161 (0-15)
-- RAM: HM6264 (16×8 bit)
-- Moduły wykonawcze (LED, wyświetlacze, buzzer, w planach)
+- Naprawdę chciałbym wiedzieć (trust me bro)
+- Coś co liczy, wykonuje operacje i daje się programować
+- używając UCY74181
 
 ## Status projektu
 
-- [x] Koncepcja i architektura
-- [ ] Schemat elektryczny
-- [ ] Prototyp na breadboard
-- [ ] Testy
-- [ ] Finalna wersja
+- [ ] Koncepcja i architektura (czeka)
 
 ## Lista części
 
